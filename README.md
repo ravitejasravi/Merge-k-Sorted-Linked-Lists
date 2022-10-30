@@ -33,6 +33,5 @@ Example 2:
 
 Example 3:
 
-  Input: lists = [[]]
-
+  Input: lists = [[]]<br>
   Output: []
