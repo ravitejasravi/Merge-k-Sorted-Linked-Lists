@@ -27,8 +27,7 @@ merging them into one sorted list:
 
 Example 2:
 
-  Input: lists = []
-
+  Input: lists = []<br>
   Output: []
 
 Example 3:
